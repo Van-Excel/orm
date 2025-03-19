@@ -1,16 +1,13 @@
-/venv
-.env
-/.env
-venv
-__pycache__
-/__pycache__
-core/__pycache__
-inventory/__pycache__
+
 
 # Byte-compiled / cached files
 __pycache__/
 *.py[cod]
 *$py.class
+core/__pycache__
+/core/__pycache__
+inventory/__pycache__
+core/inventory/__pycache__
 
 # Virtual environment
 venv/
